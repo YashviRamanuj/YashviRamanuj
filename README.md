@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👩🏼‍🎓 Pre-final year student at IIT Jodhpur
+- 👩🏼‍💻 Upcoming SDE Intern
+- 💻 Former Full-Stack development intern
+- 💬 Ask me about Django, Python, ML, Blockchain, C++, REST
+- 📫 How to reach me: [yashvi.1@iitj.ac.in](mailto:yashvi.1@iitj.ac.in)
+
 <!--
 **YashviRamanuj/YashviRamanuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
