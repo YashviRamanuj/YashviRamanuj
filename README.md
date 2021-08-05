@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩🏼‍🎓 Pre-final year student of CSE at IIT Jodhpur
-- 👩🏼‍💻 Upcoming SDE Intern
+- 👩🏼‍💻 Product Engineer - Intern [@Gojek](https://github.com/gojek)
 - 💻 Former Full-Stack development intern
 - 💬 Ask me about Django, Python, ML, Blockchain, C++, REST
 - 📫 How to reach me: [yashvi.1@iitj.ac.in](mailto:yashvi.1@iitj.ac.in)
